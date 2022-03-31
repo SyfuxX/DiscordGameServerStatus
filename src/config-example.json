@@ -1,0 +1,20 @@
+{
+  "token": {
+    "discord": "your discord token"
+  },
+  "database": {
+    "hostname": "",
+    "port": "",
+    "user": "",
+    "database": "",
+    "password": ""
+  },
+  "prefix": "!",
+  "id": {
+    "owner": "228294100258914314",
+    "bot": "958734882358567032"
+  },
+  "settings": {
+    "debugMode": false
+  }
+}
